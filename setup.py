@@ -16,7 +16,7 @@ test_requirements = [ ]
 
 setup(
     name='pseudo_random',
-    version='0.0.1',
+    version='0.0.2',
     description="Python library for generating pseudo-random numbers",
     url='https://github.com/jlara6/pseudo_random',
     author="Jorge Lara",
